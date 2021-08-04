@@ -3,7 +3,7 @@
 
 Rise is a free 2d-platformer game. The goal is to provide an enjoyable gameplay and motivate players to overcome themselves.
 
-You can navigate through the project and explore ir and try [the latest releases](https://github.com/SlavaGolubnichiy/Rise/releases).
+You can navigate through the project and explore it and try [the latest releases](https://github.com/SlavaGolubnichiy/Rise/releases).
 
 ## Hardware requirements
 To run Rise, make sure that your computer's specifications are equal or higher than the following specifications:
