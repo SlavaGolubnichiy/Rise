@@ -17,4 +17,4 @@ To run Rise, make sure that your computer's specifications are equal or higher t
 
 ## How to play
 1. Use arrow keys on your keyboard to control the blue square (hereinafter - player)
-2. The goal is to avoid crashing player into red squares (hereinafter - enemies). The goal is to score as many points as possible. Points are shown at the bottom left.
+2. The goal is to avoid crashing player into red squares (enemies). The goal is to score as many points as possible. Points are shown at the bottom left.
